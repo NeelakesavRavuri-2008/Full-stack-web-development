@@ -1,0 +1,10 @@
+(
+echo node_modules/
+echo client/node_modules/
+echo server/node_modules/
+echo client/dist/
+echo server/dist/
+echo .env
+echo server/.env
+echo client/.env
+) > .gitignore
